@@ -1,0 +1,2 @@
+These files are the learning code about DataStructure. Most of them follow the course by the blogger from BiliBili "https://www.bilibili.com/video/BV1W64y1z7jh/?spm_id_from=333.999.0.0&vd_source=3a217995770ab078f756ae5dd072b349"
+Due to some code files should be written in the style of C++, two root directories including C and C++ are created instead of traditional classification. In this way, the catalog might not be friendly.
